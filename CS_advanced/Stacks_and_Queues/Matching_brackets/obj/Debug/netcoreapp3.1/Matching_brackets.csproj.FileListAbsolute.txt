@@ -1,0 +1,13 @@
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\Matching_brackets\bin\Debug\netcoreapp3.1\Matching_brackets.exe
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\Matching_brackets\bin\Debug\netcoreapp3.1\Matching_brackets.deps.json
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\Matching_brackets\bin\Debug\netcoreapp3.1\Matching_brackets.runtimeconfig.json
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\Matching_brackets\bin\Debug\netcoreapp3.1\Matching_brackets.runtimeconfig.dev.json
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\Matching_brackets\bin\Debug\netcoreapp3.1\Matching_brackets.dll
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\Matching_brackets\bin\Debug\netcoreapp3.1\Matching_brackets.pdb
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\Matching_brackets\obj\Debug\netcoreapp3.1\Matching_brackets.csprojAssemblyReference.cache
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\Matching_brackets\obj\Debug\netcoreapp3.1\Matching_brackets.AssemblyInfoInputs.cache
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\Matching_brackets\obj\Debug\netcoreapp3.1\Matching_brackets.AssemblyInfo.cs
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\Matching_brackets\obj\Debug\netcoreapp3.1\Matching_brackets.csproj.CoreCompileInputs.cache
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\Matching_brackets\obj\Debug\netcoreapp3.1\Matching_brackets.dll
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\Matching_brackets\obj\Debug\netcoreapp3.1\Matching_brackets.pdb
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\Matching_brackets\obj\Debug\netcoreapp3.1\Matching_brackets.genruntimeconfig.cache

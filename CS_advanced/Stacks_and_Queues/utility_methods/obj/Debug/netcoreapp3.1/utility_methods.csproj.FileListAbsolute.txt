@@ -1,0 +1,13 @@
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\utility_methods\bin\Debug\netcoreapp3.1\utility_methods.exe
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\utility_methods\bin\Debug\netcoreapp3.1\utility_methods.deps.json
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\utility_methods\bin\Debug\netcoreapp3.1\utility_methods.runtimeconfig.json
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\utility_methods\bin\Debug\netcoreapp3.1\utility_methods.runtimeconfig.dev.json
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\utility_methods\bin\Debug\netcoreapp3.1\utility_methods.dll
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\utility_methods\bin\Debug\netcoreapp3.1\utility_methods.pdb
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\utility_methods\obj\Debug\netcoreapp3.1\utility_methods.csprojAssemblyReference.cache
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\utility_methods\obj\Debug\netcoreapp3.1\utility_methods.AssemblyInfoInputs.cache
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\utility_methods\obj\Debug\netcoreapp3.1\utility_methods.AssemblyInfo.cs
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\utility_methods\obj\Debug\netcoreapp3.1\utility_methods.csproj.CoreCompileInputs.cache
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\utility_methods\obj\Debug\netcoreapp3.1\utility_methods.dll
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\utility_methods\obj\Debug\netcoreapp3.1\utility_methods.pdb
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\utility_methods\obj\Debug\netcoreapp3.1\utility_methods.genruntimeconfig.cache

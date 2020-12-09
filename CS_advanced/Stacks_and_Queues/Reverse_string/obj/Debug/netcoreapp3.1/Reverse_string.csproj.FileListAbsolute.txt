@@ -1,0 +1,13 @@
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\Reverse_string\bin\Debug\netcoreapp3.1\Reverse_string.exe
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\Reverse_string\bin\Debug\netcoreapp3.1\Reverse_string.deps.json
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\Reverse_string\bin\Debug\netcoreapp3.1\Reverse_string.runtimeconfig.json
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\Reverse_string\bin\Debug\netcoreapp3.1\Reverse_string.runtimeconfig.dev.json
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\Reverse_string\bin\Debug\netcoreapp3.1\Reverse_string.dll
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\Reverse_string\bin\Debug\netcoreapp3.1\Reverse_string.pdb
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\Reverse_string\obj\Debug\netcoreapp3.1\Reverse_string.csprojAssemblyReference.cache
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\Reverse_string\obj\Debug\netcoreapp3.1\Reverse_string.AssemblyInfoInputs.cache
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\Reverse_string\obj\Debug\netcoreapp3.1\Reverse_string.AssemblyInfo.cs
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\Reverse_string\obj\Debug\netcoreapp3.1\Reverse_string.csproj.CoreCompileInputs.cache
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\Reverse_string\obj\Debug\netcoreapp3.1\Reverse_string.dll
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\Reverse_string\obj\Debug\netcoreapp3.1\Reverse_string.pdb
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Stacks_and_Queues\Reverse_string\obj\Debug\netcoreapp3.1\Reverse_string.genruntimeconfig.cache
