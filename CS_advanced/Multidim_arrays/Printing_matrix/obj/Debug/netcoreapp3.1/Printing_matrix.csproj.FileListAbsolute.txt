@@ -1,0 +1,13 @@
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Multidim_arrays\Printing_matrix\bin\Debug\netcoreapp3.1\Printing_matrix.exe
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Multidim_arrays\Printing_matrix\bin\Debug\netcoreapp3.1\Printing_matrix.deps.json
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Multidim_arrays\Printing_matrix\bin\Debug\netcoreapp3.1\Printing_matrix.runtimeconfig.json
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Multidim_arrays\Printing_matrix\bin\Debug\netcoreapp3.1\Printing_matrix.runtimeconfig.dev.json
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Multidim_arrays\Printing_matrix\bin\Debug\netcoreapp3.1\Printing_matrix.dll
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Multidim_arrays\Printing_matrix\bin\Debug\netcoreapp3.1\Printing_matrix.pdb
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Multidim_arrays\Printing_matrix\obj\Debug\netcoreapp3.1\Printing_matrix.csprojAssemblyReference.cache
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Multidim_arrays\Printing_matrix\obj\Debug\netcoreapp3.1\Printing_matrix.AssemblyInfoInputs.cache
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Multidim_arrays\Printing_matrix\obj\Debug\netcoreapp3.1\Printing_matrix.AssemblyInfo.cs
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Multidim_arrays\Printing_matrix\obj\Debug\netcoreapp3.1\Printing_matrix.csproj.CoreCompileInputs.cache
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Multidim_arrays\Printing_matrix\obj\Debug\netcoreapp3.1\Printing_matrix.dll
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Multidim_arrays\Printing_matrix\obj\Debug\netcoreapp3.1\Printing_matrix.pdb
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Multidim_arrays\Printing_matrix\obj\Debug\netcoreapp3.1\Printing_matrix.genruntimeconfig.cache
