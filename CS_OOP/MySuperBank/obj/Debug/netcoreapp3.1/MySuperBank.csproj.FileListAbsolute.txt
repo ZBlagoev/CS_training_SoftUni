@@ -11,3 +11,6 @@ C:\Users\BZB\source\repos\CS_training_SoftUni\CS_OOP\MySuperBank\obj\Debug\netco
 C:\Users\BZB\source\repos\CS_training_SoftUni\CS_OOP\MySuperBank\obj\Debug\netcoreapp3.1\MySuperBank.dll
 C:\Users\BZB\source\repos\CS_training_SoftUni\CS_OOP\MySuperBank\obj\Debug\netcoreapp3.1\MySuperBank.pdb
 C:\Users\BZB\source\repos\CS_training_SoftUni\CS_OOP\MySuperBank\obj\Debug\netcoreapp3.1\MySuperBank.genruntimeconfig.cache
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_OOP\MySuperBank\bin\Debug\netcoreapp3.1\BankyStuffLibrary.dll
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_OOP\MySuperBank\bin\Debug\netcoreapp3.1\BankyStuffLibrary.pdb
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_OOP\MySuperBank\obj\Debug\netcoreapp3.1\MySuperBank.csproj.CopyComplete

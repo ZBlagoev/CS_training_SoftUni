@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "acuqERWOfnoTKblZXMXnm6ZzJe56FIY3VMM7zkzr8txpeP8QGI8gRuleYhw3olbOrldi/ZLtJ7ScKnE5LFaAYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BZB\\source\\repos\\CS_training_SoftUni\\CS_OOP\\BankyStuffLibrary\\BankyStuffLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BZB\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\BZB\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

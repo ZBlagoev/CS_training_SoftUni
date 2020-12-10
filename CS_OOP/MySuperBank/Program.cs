@@ -1,4 +1,5 @@
 ﻿using System;
+using BankyStuffLibrary;
 
 namespace MySuperBank
 {
@@ -7,7 +8,7 @@ namespace MySuperBank
         static void Main(string[] args)
         {
             // create an account
-            var account = new BankAccount("Zhelyazko Blagoev", 500);
+            var account = new BankAccount("Zhelyazko Blagoev", 500.00m);
 
             // print account info
             Console.WriteLine();
@@ -17,7 +18,7 @@ namespace MySuperBank
             // make some transactions
             account.MakeWithdrawal(119.95m, DateTime.Now, "Hammock");
             account.MakeWithdrawal(59.99m, DateTime.Now, "Nintendo Game");
-            account.MakeDeposit(200, DateTime.Now, "Savings");
+            account.MakeDeposit(200.00m, DateTime.Now, "Savings");
             account.MakeWithdrawal(199.95m, DateTime.Now, "Microwave");
             account.MakeWithdrawal(3.95m, DateTime.Now, "Coffee");
             account.MakeWithdrawal(5.99m, DateTime.Now, "Breakfast");

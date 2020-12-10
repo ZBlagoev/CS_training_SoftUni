@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySuperBank", "MySuperBank.csproj", "{575ED1FC-9B02-4F4C-BC69-AEA8B4B9065C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MySuperBank", "MySuperBank.csproj", "{575ED1FC-9B02-4F4C-BC69-AEA8B4B9065C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankyStuffLibrary", "..\BankyStuffLibrary\BankyStuffLibrary.csproj", "{CD5987BD-25D5-45C2-A61A-727496B3873F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{575ED1FC-9B02-4F4C-BC69-AEA8B4B9065C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{575ED1FC-9B02-4F4C-BC69-AEA8B4B9065C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{575ED1FC-9B02-4F4C-BC69-AEA8B4B9065C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD5987BD-25D5-45C2-A61A-727496B3873F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD5987BD-25D5-45C2-A61A-727496B3873F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD5987BD-25D5-45C2-A61A-727496B3873F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD5987BD-25D5-45C2-A61A-727496B3873F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

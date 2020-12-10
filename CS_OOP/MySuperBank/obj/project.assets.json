@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "BankyStuffLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/BankyStuffLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BankyStuffLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BankyStuffLibrary/1.0.0": {
+      "type": "project",
+      "path": "../BankyStuffLibrary/BankyStuffLibrary.csproj",
+      "msbuildProject": "../BankyStuffLibrary/BankyStuffLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "BankyStuffLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\BZB\\.nuget\\packages\\": {}
@@ -32,7 +51,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\BZB\\source\\repos\\CS_training_SoftUni\\CS_OOP\\BankyStuffLibrary\\BankyStuffLibrary.csproj": {
+              "projectPath": "C:\\Users\\BZB\\source\\repos\\CS_training_SoftUni\\CS_OOP\\BankyStuffLibrary\\BankyStuffLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
