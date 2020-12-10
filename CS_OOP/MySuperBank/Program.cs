@@ -11,7 +11,9 @@ namespace MySuperBank
             Console.WriteLine($"Account {account.Number} was created for " +
                 $"{account.Owner} with {account.Balance} dollars.");
 
+            account.MakeWithdrawal(120, DateTime.Now, "Hammock");
 
+            Console.WriteLine(account.Balance);
 
 
         }
