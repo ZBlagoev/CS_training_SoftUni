@@ -6,6 +6,8 @@ namespace MySuperBank
 {
     public class BankAccount
     {
+        /***********************************************/
+        // properties of the BankAccount class
         public string Number { get; }
         public string Owner { get; set; }
         public decimal Balance {
@@ -21,13 +23,11 @@ namespace MySuperBank
             } 
         }
 
-
         private static int accountNumberSeed = 1234567890;
-
-
+        // list of all transactions
         private List<Transaction> allTransactions = new List<Transaction>();
 
-
+        /***********************************************/
         // constructor of a bank account
         public BankAccount(string name, decimal initialBalance)
         {
@@ -43,6 +43,8 @@ namespace MySuperBank
 
         }
 
+        /***********************************************/
+        // method for making deposits
         public void MakeDeposit(decimal amount, DateTime date, string note)
         {
             if (amount <= 0)
@@ -55,6 +57,8 @@ namespace MySuperBank
             allTransactions.Add(deposit);
         }
 
+        /***********************************************/
+        // method for making withdrawals
         public void MakeWithdrawal(decimal amount, DateTime date, string note)
         {
             if (amount <= 0)
@@ -70,6 +74,24 @@ namespace MySuperBank
 
             var withdrawal = new Transaction(-amount, date, note);
             allTransactions.Add(withdrawal);
+        }
+
+        /***********************************************/
+        // method for getting the report of the account
+        public string GetAccountHistory()
+        {
+            var report = new StringBuilder();
+
+            // header
+            report.AppendLine("Date\t\tAmount\tNote");
+
+            // report rows
+            foreach (var item in allTransactions)
+            {
+                report.AppendLine($"{item.Date.ToShortDateString()}\t{item.Amount}\t{item.Notes}");
+            }
+
+            return report.ToString();
         }
     }
 }
