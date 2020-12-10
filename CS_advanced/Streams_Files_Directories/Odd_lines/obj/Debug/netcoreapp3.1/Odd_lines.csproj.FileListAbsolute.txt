@@ -1,0 +1,13 @@
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Streams_Files_Directories\Odd_lines\bin\Debug\netcoreapp3.1\Odd_lines.exe
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Streams_Files_Directories\Odd_lines\bin\Debug\netcoreapp3.1\Odd_lines.deps.json
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Streams_Files_Directories\Odd_lines\bin\Debug\netcoreapp3.1\Odd_lines.runtimeconfig.json
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Streams_Files_Directories\Odd_lines\bin\Debug\netcoreapp3.1\Odd_lines.runtimeconfig.dev.json
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Streams_Files_Directories\Odd_lines\bin\Debug\netcoreapp3.1\Odd_lines.dll
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Streams_Files_Directories\Odd_lines\bin\Debug\netcoreapp3.1\Odd_lines.pdb
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Streams_Files_Directories\Odd_lines\obj\Debug\netcoreapp3.1\Odd_lines.csprojAssemblyReference.cache
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Streams_Files_Directories\Odd_lines\obj\Debug\netcoreapp3.1\Odd_lines.AssemblyInfoInputs.cache
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Streams_Files_Directories\Odd_lines\obj\Debug\netcoreapp3.1\Odd_lines.AssemblyInfo.cs
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Streams_Files_Directories\Odd_lines\obj\Debug\netcoreapp3.1\Odd_lines.csproj.CoreCompileInputs.cache
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Streams_Files_Directories\Odd_lines\obj\Debug\netcoreapp3.1\Odd_lines.dll
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Streams_Files_Directories\Odd_lines\obj\Debug\netcoreapp3.1\Odd_lines.pdb
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_advanced\Streams_Files_Directories\Odd_lines\obj\Debug\netcoreapp3.1\Odd_lines.genruntimeconfig.cache
