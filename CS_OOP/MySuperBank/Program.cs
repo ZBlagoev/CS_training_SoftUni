@@ -1,5 +1,6 @@
 ﻿using System;
 using BankyStuffLibrary;
+using Humanizer;
 
 namespace MySuperBank
 {

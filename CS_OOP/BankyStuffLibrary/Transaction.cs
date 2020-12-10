@@ -1,4 +1,5 @@
 ﻿using System;
+using Humanizer;
 
 namespace BankyStuffLibrary
 {
@@ -7,6 +8,11 @@ namespace BankyStuffLibrary
         /***********************************************/
         // properties of the transactions class
         public decimal Amount { get; }
+        public string AmountForHumans { get
+            {
+                return ((int)Amount).ToWords();
+            }
+        }
         public DateTime Date { get; }
         public string Notes { get; }
 

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YdZNb1wpQqdTckql063UZLSKLnsqp6ymTRi96YNYxbC/9TcrpOTPbxSjx6EkC5nHMEoaonlQeONi5ziZ/BIA9g==",
+  "dgSpecHash": "aDkrMi25pqCd6qmWQcXISe9wyk0D6IJJAULu2zZ2gZlPy1N/HUx6sMeJrT44YQMoJnWNPqCU5V79fKgE+58l/Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\BZB\\source\\repos\\CS_training_SoftUni\\CS_OOP\\MySuperBank\\MySuperBank.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\BZB\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512"
+  ],
   "logs": []
 }
