@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "oYR4AytIFVqgNepWVLcPmUXh3I67xwnkpDhXHG9D0w+TZLqGyw59PCgjThCVrlS+ewMsuyDARxfZFVx5QtlCFQ==",
+  "dgSpecHash": "OQ10C1hE8cU6UmujHqyUWpUvzcqJlNzj/pZUiV4BonU8eJo0UWQREf3xjuAdcMz+aG0xbQFxajvLd60GML6isg==",
   "success": true,
   "projectFilePath": "C:\\Users\\BZB\\source\\repos\\CS_training_SoftUni\\CS_OOP\\BankingTests\\BankingTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BZB\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
+    "C:\\Users\\BZB\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\BZB\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\BZB\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\BZB\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",

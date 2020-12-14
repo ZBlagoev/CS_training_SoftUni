@@ -94,3 +94,6 @@ C:\Users\BZB\source\repos\CS_training_SoftUni\CS_OOP\BankingTests\obj\Debug\netc
 C:\Users\BZB\source\repos\CS_training_SoftUni\CS_OOP\BankingTests\obj\Debug\netcoreapp3.1\BankingTests.dll
 C:\Users\BZB\source\repos\CS_training_SoftUni\CS_OOP\BankingTests\obj\Debug\netcoreapp3.1\BankingTests.pdb
 C:\Users\BZB\source\repos\CS_training_SoftUni\CS_OOP\BankingTests\obj\Debug\netcoreapp3.1\BankingTests.genruntimeconfig.cache
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_OOP\BankingTests\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_OOP\BankingTests\bin\Debug\netcoreapp3.1\BankyStuffLibrary.dll
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_OOP\BankingTests\bin\Debug\netcoreapp3.1\BankyStuffLibrary.pdb

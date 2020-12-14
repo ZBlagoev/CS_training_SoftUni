@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "BankingTests/1.0.0": {
         "dependencies": {
+          "BankyStuffLibrary": "1.0.0",
           "Microsoft.NET.Test.Sdk": "16.5.0",
           "coverlet.collector": "1.2.0",
           "xunit": "2.4.0",
@@ -18,6 +19,14 @@
         }
       },
       "coverlet.collector/1.2.0": {},
+      "Humanizer.Core/2.8.26": {
+        "runtime": {
+          "lib/netstandard2.0/Humanizer.dll": {
+            "assemblyVersion": "2.8.0.0",
+            "fileVersion": "2.8.26.1919"
+          }
+        }
+      },
       "Microsoft.CodeCoverage/16.5.0": {
         "runtime": {
           "lib/netcoreapp1.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll": {
@@ -687,6 +696,14 @@
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "16.5.0"
         }
+      },
+      "BankyStuffLibrary/1.0.0": {
+        "dependencies": {
+          "Humanizer.Core": "2.8.26"
+        },
+        "runtime": {
+          "BankyStuffLibrary.dll": {}
+        }
       }
     }
   },
@@ -702,6 +719,13 @@
       "sha512": "sha512-ZB+EGXsVBIn8cew7D3S2c+rgIlokKv1dSwsXEoiFQaNXF/BSxp9Rlfz/jV1ehSWH5XpLitfRxFNW3ok7uPDOXA==",
       "path": "coverlet.collector/1.2.0",
       "hashPath": "coverlet.collector.1.2.0.nupkg.sha512"
+    },
+    "Humanizer.Core/2.8.26": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OiKusGL20vby4uDEswj2IgkdchC1yQ6rwbIkZDVBPIR6al2b7n3pC91elBul9q33KaBgRKhbZH3+2Ur4fnWx2A==",
+      "path": "humanizer.core/2.8.26",
+      "hashPath": "humanizer.core.2.8.26.nupkg.sha512"
     },
     "Microsoft.CodeCoverage/16.5.0": {
       "type": "package",
@@ -1045,6 +1069,11 @@
       "sha512": "sha512-3eq5cGXbEJkqW9nwLuXwtxy9B5gMA8i7HW4rN63AhAvy5UvEcQbZnve23wx/oPrkyg/4CbfNhxkBezS0b1oUdQ==",
       "path": "xunit.runner.visualstudio/2.4.0",
       "hashPath": "xunit.runner.visualstudio.2.4.0.nupkg.sha512"
+    },
+    "BankyStuffLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
