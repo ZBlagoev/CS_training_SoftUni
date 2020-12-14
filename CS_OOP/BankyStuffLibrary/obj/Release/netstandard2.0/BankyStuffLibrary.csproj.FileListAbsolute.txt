@@ -1,0 +1,9 @@
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_OOP\BankyStuffLibrary\bin\Release\netstandard2.0\BankyStuffLibrary.deps.json
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_OOP\BankyStuffLibrary\bin\Release\netstandard2.0\BankyStuffLibrary.dll
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_OOP\BankyStuffLibrary\bin\Release\netstandard2.0\BankyStuffLibrary.pdb
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_OOP\BankyStuffLibrary\obj\Release\netstandard2.0\BankyStuffLibrary.csprojAssemblyReference.cache
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_OOP\BankyStuffLibrary\obj\Release\netstandard2.0\BankyStuffLibrary.AssemblyInfoInputs.cache
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_OOP\BankyStuffLibrary\obj\Release\netstandard2.0\BankyStuffLibrary.AssemblyInfo.cs
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_OOP\BankyStuffLibrary\obj\Release\netstandard2.0\BankyStuffLibrary.csproj.CoreCompileInputs.cache
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_OOP\BankyStuffLibrary\obj\Release\netstandard2.0\BankyStuffLibrary.dll
+C:\Users\BZB\source\repos\CS_training_SoftUni\CS_OOP\BankyStuffLibrary\obj\Release\netstandard2.0\BankyStuffLibrary.pdb

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "conINFFaM7HVgfjB0mZ3X1g51RVn7UJL7EkqV1pOCwrk0A35XDMgNtFJNoS6oSg0sigquPob+oG/pmQQ7Nki+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BZB\\source\\repos\\CS_training_SoftUni\\CS_OOP\\MySuperBank\\MySuperBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BZB\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\BZB\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.10\\microsoft.netcore.app.runtime.win-x64.3.1.10.nupkg.sha512",
+    "C:\\Users\\BZB\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.10\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.10.nupkg.sha512",
+    "C:\\Users\\BZB\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.10\\microsoft.aspnetcore.app.runtime.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
